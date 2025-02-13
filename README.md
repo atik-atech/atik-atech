@@ -9,5 +9,7 @@ Other: Git, Vite, React Router
 I build modern, responsive, and dynamic web applications. Passionate about UI/UX, performance optimization, and delivering seamless user experiences.
 
 📫 Let's Connect 
-💼 LinkedIn https://www.linkedin.com/in/atik-mohammad-5a0323223/
+💼 LinkedIn: https://www.linkedin.com/in/atik-mohammad-5a0323223/
+📩 Email: matik011786@gmail.com
+📸 Instagram: https://www.instagram.com/_atik_mohammad_/
 💡 Always learning, always coding! 🚀
